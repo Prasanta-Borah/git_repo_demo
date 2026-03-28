@@ -1,0 +1,1 @@
+This repository created on gitHub and clone it using the git clone command.
